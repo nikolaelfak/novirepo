@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "WebServerImgToGif/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-WebServerImgToGif",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

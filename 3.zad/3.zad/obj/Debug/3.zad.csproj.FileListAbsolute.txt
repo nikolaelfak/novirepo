@@ -1,0 +1,287 @@
+D:\3. zadatak\3.zad\3.zad\bin\Debug\3.zad.exe.config
+D:\3. zadatak\3.zad\3.zad\bin\Debug\3.zad.exe
+D:\3. zadatak\3.zad\3.zad\bin\Debug\3.zad.pdb
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Newtonsoft.Json.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Reactive.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Newtonsoft.Json.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Reactive.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.csproj.AssemblyReference.cache
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.csproj.SuggestedBindingRedirects.cache
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.csproj.CoreCompileInputs.cache
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.csproj.CopyComplete
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.exe
+D:\3. zadatak\3.zad\3.zad\obj\Debug\3.zad.pdb
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Octokit.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Octokit.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Http.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Buffers.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Collections.Immutable.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.ComponentModel.Annotations.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.IO.Pipelines.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Memory.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Numerics.Vectors.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Reflection.Metadata.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Security.Principal.Windows.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Text.Encodings.Web.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.ValueTuple.dll
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Http.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Buffers.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Collections.Immutable.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.IO.Pipelines.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Memory.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Numerics.Vectors.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Reflection.Metadata.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.Text.Encodings.Web.xml
+D:\3. zadatak\3.zad\3.zad\bin\Debug\System.ValueTuple.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\3.zad.exe.config
+D:\Sistemsko\3.zad\3.zad\bin\Debug\3.zad.exe
+D:\Sistemsko\3.zad\3.zad\bin\Debug\3.zad.pdb
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Http.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Newtonsoft.Json.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Octokit.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Buffers.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Collections.Immutable.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.IO.Pipelines.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Memory.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Numerics.Vectors.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Reactive.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Reflection.Metadata.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Security.Principal.Windows.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Text.Encodings.Web.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.ValueTuple.dll
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Http.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Newtonsoft.Json.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\Octokit.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Buffers.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Collections.Immutable.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.IO.Pipelines.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Memory.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Numerics.Vectors.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Reactive.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Reflection.Metadata.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Text.Encodings.Web.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sistemsko\3.zad\3.zad\bin\Debug\System.ValueTuple.xml
+D:\Sistemsko\3.zad\3.zad\obj\Debug\3.zad.csproj.AssemblyReference.cache
+D:\Sistemsko\3.zad\3.zad\obj\Debug\3.zad.csproj.CoreCompileInputs.cache
+D:\Sistemsko\3.zad\3.zad\obj\Debug\3.zad.csproj.CopyComplete
+D:\Sistemsko\3.zad\3.zad\obj\Debug\3.zad.exe
+D:\Sistemsko\3.zad\3.zad\obj\Debug\3.zad.pdb

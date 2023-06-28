@@ -1,0 +1,51 @@
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.exe
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.deps.json
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.runtimeconfig.json
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\refint\WebServerImgToGif.dll
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\ref\WebServerImgToGif.dll
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Korisnik\Desktop\I PROJEKAT\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CopyComplete
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.exe
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.deps.json
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.runtimeconfig.json
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.AssemblyReference.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfoInputs.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfo.cs
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CoreCompileInputs.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CopyComplete
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\refint\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.genruntimeconfig.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net6.0\ref\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.exe
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.deps.json
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.runtimeconfig.json
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.AssemblyReference.cache
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfoInputs.cache
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.AssemblyInfo.cs
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CoreCompileInputs.cache
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.csproj.CopyComplete
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\refint\WebServerImgToGif.dll
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.pdb
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\WebServerImgToGif.genruntimeconfig.cache
+C:\Users\Dzoni\Desktop\2. projekat sistemsko\1. projekat (18392)\ImageToGifConverter\WebServerImgToGif\obj\Debug\net6.0\ref\WebServerImgToGif.dll

@@ -1,0 +1,5 @@
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net5.0\WebServerImgToGif.csproj.AssemblyReference.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net5.0\WebServerImgToGif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net5.0\WebServerImgToGif.AssemblyInfoInputs.cache
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net5.0\WebServerImgToGif.AssemblyInfo.cs
+C:\Users\Dzoni\Desktop\KoleginGif\SysProg---14.-Zadatak-master\I projekat - 18077\WebServerImgToGif\WebServerImgToGif\obj\Debug\net5.0\WebServerImgToGif.csproj.CoreCompileInputs.cache
